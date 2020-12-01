@@ -1,0 +1,205 @@
+Period,State,Cases
+0,Alabama,0
+1,Alabama,4241
+2,Alabama,59067
+3,Alabama,217822
+0,Alaska,0
+1,Alaska,291
+2,Alaska,1958
+3,Alaska,23688
+0,Arizona,1
+1,Arizona,3962
+2,Arizona,131411
+3,Arizona,275523
+0,Arkansas,0
+1,Arkansas,1599
+2,Arkansas,30297
+3,Arkansas,133040
+0,California,7
+1,California,27107
+2,California,355497
+3,California,1035981
+0,Colorado,0
+1,Colorado,8280
+2,Colorado,38240
+3,Colorado,164408
+0,Connecticut,0
+1,Connecticut,14755
+2,Connecticut,47636
+3,Connecticut,88645
+0,Delaware,0
+1,Delaware,2014
+2,Delaware,13050
+3,Delaware,28803
+0,District of Columbia,0
+1,District of Columbia,2197
+2,District of Columbia,11026
+3,District of Columbia,18977
+0,Florida,0
+1,Florida,22526
+2,Florida,301802
+3,Florida,885193
+0,Georgia,0
+1,Georgia,14583
+2,Georgia,118147
+3,Georgia,409504
+0,Hawaii,0
+1,Hawaii,524
+2,Hawaii,1271
+3,Hawaii,16619
+0,Idaho,0
+1,Idaho,1587
+2,Idaho,12599
+3,Idaho,82545
+0,Illinois,2
+1,Illinois,24593
+2,Illinois,158451
+3,Illinois,574722
+0,Indiana,0
+1,Indiana,9030
+2,Indiana,54698
+3,Indiana,254172
+0,Iowa,0
+1,Iowa,1995
+2,Iowa,36536
+3,Iowa,186314
+0,Kansas,0
+1,Kansas,1503
+2,Kansas,21157
+3,Kansas,117851
+0,Kentucky,0
+1,Kentucky,2295
+2,Kentucky,21148
+3,Kentucky,140267
+0,Louisiana,0
+1,Louisiana,21951
+2,Louisiana,84241
+3,Louisiana,204513
+0,Maine,0
+1,Maine,770
+2,Maine,3578
+3,Maine,8944
+0,Maryland,0
+1,Maryland,10096
+2,Maryland,75576
+3,Maryland,166317
+0,Massachusetts,1
+1,Massachusetts,29918
+2,Massachusetts,112347
+3,Massachusetts,188275
+0,Michigan,0
+1,Michigan,27894
+2,Michigan,79081
+3,Michigan,275892
+0,Minnesota,0
+1,Minnesota,1809
+2,Minnesota,43782
+3,Minnesota,223637
+0,Mississippi,0
+1,Mississippi,3360
+2,Mississippi,38567
+3,Mississippi,134309
+0,Missouri,0
+1,Missouri,4895
+2,Missouri,31737
+3,Missouri,249608
+0,Montana,0
+1,Montana,404
+2,Montana,2149
+3,Montana,47158
+0,Nebraska,0
+1,Nebraska,994
+2,Nebraska,21979
+3,Nebraska,98161
+0,Nevada,0
+1,Nevada,3212
+2,Nevada,30587
+3,Nevada,120744
+0,New Hampshire,0
+1,New Hampshire,1139
+2,New Hampshire,6113
+3,New Hampshire,14671
+0,New Jersey,0
+1,New Jersey,71030
+2,New Jersey,178252
+3,New Jersey,281075
+0,New Mexico,0
+1,New Mexico,1484
+2,New Mexico,15841
+3,New Mexico,64201
+0,New York,0
+1,New York,217130
+2,New York,408709
+3,New York,564952
+0,North Carolina,0
+1,North Carolina,5123
+2,North Carolina,91573
+3,North Carolina,312406
+0,North Dakota,0
+1,North Dakota,365
+2,North Dakota,4569
+3,North Dakota,63802
+0,Ohio,0
+1,Ohio,7791
+2,Ohio,69311
+3,Ohio,298096
+0,Oklahoma,0
+1,Oklahoma,2263
+2,Oklahoma,22813
+3,Oklahoma,154128
+0,Oregon,0
+1,Oregon,1663
+2,Oregon,13129
+3,Oregon,56880
+0,Pennsylvania,0
+1,Pennsylvania,26804
+2,Pennsylvania,102361
+3,Pennsylvania,269043
+0,Rhode Island,0
+1,Rhode Island,3529
+2,Rhode Island,17640
+3,Rhode Island,41529
+0,South Carolina,0
+1,South Carolina,3656
+2,South Carolina,62245
+3,South Carolina,195507
+0,South Dakota,0
+1,South Dakota,1168
+2,South Dakota,7652
+3,South Dakota,65381
+0,Tennessee,0
+1,Tennessee,5864
+2,Tennessee,67515
+3,Tennessee,305211
+0,Texas,2
+1,Texas,16106
+2,Texas,296478
+3,Texas,1090348
+0,Utah,0
+1,Utah,2549
+2,Utah,31228
+3,Utah,153808
+0,Vermont,0
+1,Vermont,759
+2,Vermont,1318
+3,Vermont,2889
+0,Virginia,0
+1,Virginia,6502
+2,Virginia,73527
+3,Virginia,201960
+0,Washington,1
+1,Washington,10806
+2,Washington,45004
+3,Washington,135365
+0,West Virginia,0
+1,West Virginia,725
+2,West Virginia,4557
+3,West Virginia,33659
+0,Wisconsin,1
+1,Wisconsin,3721
+2,Wisconsin,42409
+3,Wisconsin,329924
+0,Wyoming,0
+1,Wyoming,392
+2,Wyoming,1985
+3,Wyoming,22494
